@@ -21,8 +21,8 @@ git checkout infopowerbroker/spacegate-wrapper release
 What will it Install?
 ---------------------
 1) The helper script
-2) Veracity Spacegate script
-3) AV-Snapshot script
+2) Veracity Spacegate script (https://kolmafia.us/threads/spacegate.23335/)
+3) AV-Snapshot script (https://forums.kingdomofloathing.com/vb/showthread.php?t=250707)
 
 What can I configure?
 --------------------
