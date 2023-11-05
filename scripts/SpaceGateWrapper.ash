@@ -111,7 +111,7 @@ print("Starting SpaceGate Routine");
 		//you've gotten all the rares, impressive!
 		else {
 			 if(user_confirm("You've gotten all the rares. Bug IPB to add another goal. Do you want to stop the script so IPB can fix it today?")){
-			 abort;
+			 abort("Script execution canceled by user.");
 			 }
 			 }
 	}
