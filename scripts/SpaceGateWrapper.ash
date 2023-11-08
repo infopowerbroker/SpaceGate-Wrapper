@@ -27,7 +27,7 @@ print("Starting SpaceGate Routine");
 			if ((have_effect($effect[Boner Battalion]) == 0 ) && (get_property("_bonersSummoned").to_int() == 0))
 			{
 			print("BONERS Ho!");
-			use_skill(to_skill(79));
+			use_skill(to_skill(75));
 			}
 				cli_execute("try; ballpit");
 				cli_execute("Veracityspacegate visit trade buy salad (A-C)");
@@ -39,7 +39,7 @@ print("Starting SpaceGate Routine");
 			if ((have_effect($effect[Boner Battalion]) == 0 ) && (get_property("_bonersSummoned").to_int() == 0))
 			{
 				print("BONERS Ho!");
-				use_skill(to_skill(79));
+				use_skill(to_skill(75));
 			}
 			cli_execute("try; ballpit");
 			cli_execute("Veracityspacegate visit goal trophy totem (A-K)");
@@ -54,7 +54,7 @@ print("Starting SpaceGate Routine");
 			if ((have_effect($effect[Boner Battalion]) == 0 ) && (get_property("_bonersSummoned").to_int() == 0))
 			{
 				print("BONERS Ho!");
-				use_skill(to_skill(79));
+				use_skill(to_skill(75));
 			}
 			cli_execute("try; ballpit");
 			cli_execute("Veracityspacegate visit goal trophy loincloth (A-K)");
@@ -69,7 +69,7 @@ print("Starting SpaceGate Routine");
 			if ((have_effect($effect[Boner Battalion]) == 0 ) && (get_property("_bonersSummoned").to_int() == 0))
 			{
 				print("BONERS Ho!");
-				use_skill(to_skill(79));
+				use_skill(to_skill(75));
 			}
 			cli_execute("try; ballpit");
 			cli_execute("Veracityspacegate visit goal trophy spear (A-K)");
@@ -84,7 +84,7 @@ print("Starting SpaceGate Routine");
 			if ((have_effect($effect[Boner Battalion]) == 0 ) && (get_property("_bonersSummoned").to_int() == 0))
 			{
 				print("BONERS Ho!");
-				use_skill(to_skill(79));
+				use_skill(to_skill(75));
 			}
 			cli_execute("try; ballpit");
 			cli_execute("Veracityspacegate visit goal trophy blowgun (A-K)");
@@ -99,7 +99,7 @@ print("Starting SpaceGate Routine");
 			if ((have_effect($effect[Boner Battalion]) == 0 ) && (get_property("_bonersSummoned").to_int() == 0))
 			{
 				print("BONERS Ho!");
-				use_skill(to_skill(79));
+				use_skill(to_skill(75));
 			}
 			cli_execute("try; ballpit");
 			cli_execute("Veracityspacegate visit goal trophy necklace(A-O)");
